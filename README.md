@@ -1,7 +1,7 @@
 # Ultrasonic Blind Walking Stick 
 An Ultrasonic Blind Walking Stick is a device designed to assist visually impaired individuals in navigating their environment more safely and independently.
 
-##Key Features of Ultrasonic Blind Walking Stick:
+## Key Features of Ultrasonic Blind Walking Stick:
 
 Ultrasonic Sensors:
 
@@ -51,7 +51,7 @@ Designed to be intuitive and user-friendly, requiring minimal training to operat
 
 Provides clear and immediate feedback, making it easier for users to interpret and respond to their surroundings.
 
-##Applications:
+## Applications:
 
 Daily Navigation:
 
@@ -67,7 +67,7 @@ Will reduce reliance on others for navigation and mobility assistance.
 
 Potential Enhancements:
 
-##GPS Integration:
+## GPS Integration:
 
 Some advanced models may include GPS functionality to help with navigation and orientation.
 
