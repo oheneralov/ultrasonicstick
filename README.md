@@ -1,4 +1,4 @@
-# Ultrasonic Blind Walking Stick 
+# Ultrasonic Blind Walking Stick With AI
 An Ultrasonic Blind Walking Stick is a device designed to assist visually impaired individuals in navigating their environment more safely and independently.
 
 ## Key Features of Ultrasonic Blind Walking Stick:
